@@ -10,5 +10,6 @@
 - 🌱 I’m currently learning AWS
 - 💞️ I’m looking to collaborate on open AI related projects
 - 📫 How to reach me: gorakh.r.sawant@gmail.com
+- 👾LinkedIn: https://www.linkedin.com/in/gorakhsawant/
 - 😄 Pronouns: Mr.
 
